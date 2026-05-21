@@ -1,4 +1,4 @@
-<img width="974" height="396" alt="5b7b1816-d7ae-4e63-991f-24df97fb9f3a" src="https://github.com/user-attachments/assets/8a10cf86-724c-4da5-8686-f942d25026da" />
+
 # GitHub-GitLab
 # Лабораторная работа №5: Развертывание кластера Kubernetes и деплой приложения
 
@@ -43,5 +43,5 @@ spec:
 
 Результаты выполнения
 1. Проверка количества подов после масштабирования до 10 реплик (шаг 3.3) 
-
+<img width="974" height="396" alt="5b7b1816-d7ae-4e63-991f-24df97fb9f3a" src="https://github.com/user-attachments/assets/8a10cf86-724c-4da5-8686-f942d25026da" />
 
